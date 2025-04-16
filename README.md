@@ -5,7 +5,7 @@
 说明
 Clash.Net客户端是由.Net Framework编写的Clash Windows GUI程序，相比Clash for Windows更加节省内存占用，UI外观漂亮，可视化网速等功能优势。
 
-Clash内核已经支持ssr，目前已经支持ss/ssr/v2ray/trojan多种协议
+Clash内核已经支持ssr，目前已经支持Ss/Ssr/VMess/Trojan多种协议
 
 [
 ![image](https://github.com/TgDaoSheng/Clash.Net/blob/main/image/%E5%8F%91%E5%B8%83%E6%8C%89%E9%92%AE.png)
@@ -23,7 +23,7 @@ Clash内核已经支持ssr，目前已经支持ss/ssr/v2ray/trojan多种协议
 ## 第2步：添加订阅链接
 ![image](https://github.com/TgDaoSheng/Clash.Net/blob/main/image/2.jpg)
 
-clash .net 非常方便的一点是，整合了SubConverter转换程序，所以可以直接把ss/ssr/v2ray/trojan订阅地址粘贴到下方栏，点击开始转换既可。
+clash .net 非常方便的一点是，整合了SubConverter转换程序，所以可以直接把Ss/Ssr/VMess/Trojan订阅地址粘贴到下方栏，点击开始转换既可。
 
 ![image](https://github.com/TgDaoSheng/Clash.Net/blob/main/image/3.jpg)
 
